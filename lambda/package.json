@@ -1,12 +1,12 @@
 {
-    "name": "hello-world",
+    "name": "chatbot",
     "version": "1.1.0",
-    "description": "alexa utility for quickly building skills",
+    "description": "chatgpt+alexa",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Amazon Alexa",
+    "author": "David Puerto",
     "license": "ISC",
     "dependencies": {
         "ask-sdk-core": "^2.6.0",
